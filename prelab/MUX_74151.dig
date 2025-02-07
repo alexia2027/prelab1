@@ -130,7 +130,7 @@ D as the least-significant bit.</string>
           </testData>
         </entry>
       </elementAttributes>
-      <pos x="680" y="-120"/>
+      <pos x="620" y="-60"/>
     </visualElement>
     <visualElement>
       <elementName>Text</elementName>
